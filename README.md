@@ -8,7 +8,7 @@ Você está com dificuldades em criar seu primeiro curriculo, ou gostaria de ped
 
 ## Cadastrando Curriculos
 
-Crie uma issue no repositorio com seus dados e seu curriculo em PDF. Também deixe seu linkedin e outros perfis que possam funcionar como portfolio.
+Crie uma issue no repositorio com seus dados e seu curriculo em PDF, **evite colocar dados pessoais, como endereço, telefone e CPF**. Também deixe seu linkedin e outros perfis que possam funcionar como portfolio.
 
 ## Dando feedbacks
 
