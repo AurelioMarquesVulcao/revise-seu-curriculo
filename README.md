@@ -4,7 +4,7 @@
 
 # Revise Seu Curriculo
 
-Você está com dificuldades em criar seu primeiro curriculo, ou gostaria de pedir feedback para a galera da comunidade e saber quais pontos pode estudar e/ou melhorar para conseguir aquela vaga de emprego? A ideia do projeto é que pessoas desenvolvedoras possam cadastrar seus curriculos em formato de issue e desenvolvedores mais velhos ou não, possam da feedbacks sobre como está o curriculo daquela pessoa, ou até pode aparecer um headhunter de olho ;) 
+Você está com dificuldades em criar seu primeiro curriculo, ou gostaria de pedir feedback para a galera da comunidade e saber quais pontos pode estudar e/ou melhorar para conseguir aquela vaga de emprego? A ideia do projeto é que pessoas desenvolvedoras possam cadastrar seus curriculos em formato de issue e outras pessoas com mais experiência ou não, possam da feedbacks sobre como está o curriculo daquela pessoa, ou até pode aparecer um headhunter de olho ;) 
 
 ## Cadastrando Curriculos
 
